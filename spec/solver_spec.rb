@@ -1,7 +1,7 @@
 require 'rspec'
 require './solver'
 
-describe 'Solver' do
+describe 'solver' do
   before(:each) do
     @solver = Solver.new
   end
@@ -12,10 +12,10 @@ describe 'Solver' do
     it 'should return 1 for factorial 0' do
       expect(@solver.factorial(0)).to eq 1
     end
-    it 'should return 1 for factorial 1' do
+    it 'should return 1 for factorial of 1' do
       expect(@solver.factorial(1)).to eq 1
     end
-    it 'should return 2 for factorial 2' do
+    it 'should return 2 for factorial of 2' do
       expect(@solver.factorial(2)).to eq 2
     end
     it 'should return Error for factorial -1' do
@@ -26,7 +26,7 @@ describe 'Solver' do
     it 'should return "olleh" for "hello"' do
       expect(@solver.reverse('hello')).to eq 'olleh'
     end
-    it 'should return "Error" for "Error"' do
+    it 'should return "error" for "error"' do
       expect(@solver.reverse(1)).to eq 'Error'
     end
   end
