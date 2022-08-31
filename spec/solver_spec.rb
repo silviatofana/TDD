@@ -18,8 +18,8 @@ describe 'solver' do
     it 'should return 2 for factorial of 2' do
       expect(@solver.factorial(2)).to eq 2
     end
-    it 'should return Error for factorial -1' do
-      expect(@solver.factorial(-1)).to eq 'Error'
+    it 'should return "Number Is Negative" for factorial -1' do
+      expect(@solver.factorial(-1)).to eq 'Number Is Negative'
     end
   end
   context 'Reverse' do

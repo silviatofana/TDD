@@ -1,4 +1,4 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+![](https://img.shields.io/badge/Silvia-Tofana-blue?labelColor=red) ![](https://img.shields.io/badge/Kimutai-Kiprotich-blue?labelColor=white) ![](https://img.shields.io/badge/Ritobroto-Mukherjee-blue?labelColor=yellow)
 
 # TDD Project
 
@@ -29,7 +29,7 @@ To clone the project:
 
 ```bash
 $ git clone https://github.com/silviatofana/TDD.git
-$ cd tdd-project
+$ cd TDD
 ```
 
 ## Authors
@@ -44,6 +44,14 @@ $ cd tdd-project
 - GitHub: [@silviatofana](https://github.com/silviatofana)
 - LinkedIn: [@silviatofana](www.linkedin.com/in/silvia-tofana-10b852186)
 - Twitter: [@silviatofana](https://twitter.com/SilviaTofana)
+
+👤 **Ritobroto Mukherjee**
+
+- Portfolio: [@Rito](https://ritobrotomukherjee.github.io/Work-Portfolio/)
+- GitHub: [@RitobrotoMukherjee](https://github.com/RitobrotoMukherjee)
+- Twitter: [@RitobrotoM3](https://twitter.com/RitobrotoM3)
+- LinkedIn: [Ritobroto Mukherjee](https://www.linkedin.com/in/ritobroto-mukherjee-519148ba/)
+
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
@@ -56,8 +64,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- etc
+- ![](https://img.shields.io/badge/Microverse-blueviolet)
 
 ## 📝 License
 
